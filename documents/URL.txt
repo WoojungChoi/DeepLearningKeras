@@ -1,0 +1,7 @@
+https://tykimos.github.io/2017/08/07/Keras_Install_on_Windows/
+
+https://www.notion.so/Python-Keras-7da903abbe034b4799743d7fbba4d5fb
+
+Optimization 참고자료
+
+cs231n.stanford.edu/syllabus.html

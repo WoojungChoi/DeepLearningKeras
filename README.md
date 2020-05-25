@@ -1,2 +1,3 @@
 # DeepLearning with Keras
-모두의 연구소 김은수
+
+파이썬과 케라스 기반 딥러닝 강의 정리
